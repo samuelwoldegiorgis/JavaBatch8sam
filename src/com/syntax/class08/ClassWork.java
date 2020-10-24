@@ -9,13 +9,13 @@ public class ClassWork {
   }
     System.out.println("_______________");
     
-    for (int i<=100; i>1; i--){
+    for (int i=100; i>1; i--){
     	System.out.println(i);
     }
     System.out.println("_______________");
     
-    for (int i=20; j>1; i--) {
-    	i++;
+    for (int i=20; i>1; i--) {
+    
     System.out.println(i);
 	   }
 	
