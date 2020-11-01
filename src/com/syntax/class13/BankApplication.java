@@ -11,6 +11,9 @@ public class BankApplication {
                 burjusAccount.typeOfAccount="checking";
                 burjusAccount.limit=125;
 
+
+        boolean isLoggedIn=burjusAccount.login("Burju","pass123");
+        System.out.println(isLoggedIn);
             }
 }
 

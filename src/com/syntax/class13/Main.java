@@ -12,7 +12,7 @@ public class Main {
         d1.isHealthy= true;
         d1.bark();
         d1.fetch();
-        d1.play();
+
 
 
 

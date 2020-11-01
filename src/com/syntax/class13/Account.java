@@ -8,9 +8,9 @@ public class Account {
     String typeOfAccount;
     double limit;
 
-    boolean login(String enteredUserName, String enteredpassword) {
-        if (userName.equals(enteredUserName) &&
-                password.equals(enteredpassword)) {
+    boolean login(String userName, String password) {
+        if (userName.equals(userName) &&
+                password.equals(password)) {
             return true;
         } else {
             return false;

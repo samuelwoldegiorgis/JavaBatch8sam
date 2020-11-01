@@ -4,6 +4,9 @@
     <excludeFromCompile>
       <file url="file://$PROJECT_DIR$/src/com/syntax/class13/Dog.java" />
       <file url="file://$PROJECT_DIR$/src/com/syntax/class13/Main.java" />
+      <file url="file://$PROJECT_DIR$/src/com/syntax/class15/TaskPro.java" />
+      <file url="file://$PROJECT_DIR$/src/com/syntax/class15/Split.java" />
+      <file url="file://$PROJECT_DIR$/src/com/syntax/class15/Task4.java" />
     </excludeFromCompile>
   </component>
 </project>
